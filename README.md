@@ -16,4 +16,4 @@ This repository holds all the code necessary for our custom _printf function to 
 
 # Authors
 
-Vincent Munyalo
+Vincent Munyalo, Henry Ikegwuonu
